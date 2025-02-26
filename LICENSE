@@ -1,4 +1,44 @@
-                                 Apache License
+text
+DR Karl QoLM - Multi-License Options
+
+This project is primarily licensed under the GNU Affero General Public License v3.0 (AGPL-3.0), ensuring decentralized, open access to all modifications, especially for web-based use. However, to honor the open-source community’s diversity, we’ve included other common licenses below. Contributors may use these for derivative works if compatible with AGPL-3.0 terms—let's keep the positivity flowing!
+
+---
+
+1. GNU Affero General Public License v3.0 (AGPL-3.0)
+   Full text: https://www.gnu.org/licenses/agpl-3.0.en.html
+   Summary: Use, modify, share—everything stays open, even if run on a server.
+
+2. GNU General Public License v3.0 (GPL-3.0)
+   Full text: https://www.gnu.org/licenses/gpl-3.0.en.html
+   Summary: Like AGPL, but for non-web apps—keeps mods open-source.
+
+3. MIT License
+   Full text: https://opensource.org/licenses/MIT
+   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. Apache License 2.0
+   Full text: https://www.apache.org/licenses/LICENSE-2.0
+   Summary: Permissive with patent protection—use it freely, just credit us.
+
+5. BSD 3-Clause License
+   Full text: https://opensource.org/licenses/BSD-3-Clause
+   Summary: Simple, permissive—do what you want, keep the copyright notice.
+
+6. Cryptographic Autonomy License (CAL)
+   Full text: https://opensource.org/licenses/CAL-1.0
+   Summary: Built for decentralization—protects user data and keys.
+
+---
+
+Primary License: AGPL-3.0
+Copyright © 2025 DR Karl QoLM Team
+Dedicated to Dr. Karl Kruszelnicki—spreading laughs and science!
+
+
+
+
+Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
